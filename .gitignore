@@ -1,0 +1,9 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Anaconda Project files
+anaconda-project/
+anaconda-project.yml
+
+# Ignore local database files
+*.db
